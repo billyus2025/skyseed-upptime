@@ -4,19 +4,19 @@
     "url": "https://easymathprint.com",
     "icon": "https://icons.duckduckgo.com/ip3/easymathprint.com.ico",
     "slug": "easy-math-print",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 230,
-    "timeDay": 82,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "status": "up",
+    "uptime": "91.04%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "91.04%",
+    "time": 232,
+    "timeDay": 159,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 151
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/easyenglishprint.com.ico",
     "slug": "easy-english-print",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "91.04%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "91.04%",
     "time": 319,
     "timeDay": 0,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 151
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/easysudokuprint.com.ico",
     "slug": "easy-sudoku-print",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "91.05%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "91.05%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "91.05%",
     "time": 156,
     "timeDay": 0,
     "timeWeek": 156,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-12-18": 0
+      "2025-12-18": 151
     }
   },
   {
